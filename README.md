@@ -1,4 +1,4 @@
-# visit it Here
+# Visit it Here
 - https://amazon-clone-project-psi.vercel.app/
   
 
