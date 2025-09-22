@@ -1,10 +1,11 @@
+# visit it 
+- https://amazon-clone-project-psi.vercel.app/
+  
+
 # Amazon Clone Project
 
 A simple **Amazon Clone** project built as part of a development course.  
 This project demonstrates basic frontend and backend functionality of an e-commerce site.
-
-# visit it 
-- https://amazon-clone-project-psi.vercel.app/
 
 ---
 
